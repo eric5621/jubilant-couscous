@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2024-03-28T06:09:34.039Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" version="24.2.0" etag="sUPKkWB2kmwz8XDlOOt1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-28T07:22:14.715Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="8HKWHZaPvpGDuRig59Up" version="24.2.0" type="github">
   <diagram name="페이지-1" id="xr4HufGFTvWl7vlaQDFv">
-    <mxGraphModel>
+    <mxGraphModel dx="956" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="PL2CMWZKeEjJ9ub93-KD-79" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="161" y="332" width="505" height="505" as="geometry" />
+        </mxCell>
+        <mxCell id="PL2CMWZKeEjJ9ub93-KD-80" value="콘서트 버스 대절 시스템" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="346" y="332" width="136" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
