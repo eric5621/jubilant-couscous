@@ -1,17 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2024-03-28T10:01:34.392Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="S30FFFYeXsHbyAcsq26_" version="24.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-28T10:05:37.901Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="LGsHIr5278zaE7HKvIz7" version="24.2.0" type="github">
   <diagram name="페이지-1" id="xr4HufGFTvWl7vlaQDFv">
     <mxGraphModel dx="2049" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="PL2CMWZKeEjJ9ub93-KD-300" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="140" y="320" width="680" height="680" as="geometry" />
+        </mxCell>
         <mxCell id="PL2CMWZKeEjJ9ub93-KD-80" value="콘서트 버스 대절 시스템" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="346" y="250" width="136" height="30" as="geometry" />
+          <mxGeometry x="430" y="320" width="136" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PL2CMWZKeEjJ9ub93-KD-82" value="회원" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="-20" y="580" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PL2CMWZKeEjJ9ub93-KD-85" value="회원가입" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="120" y="400" width="100" height="40" as="geometry" />
+          <mxGeometry x="150" y="400" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PL2CMWZKeEjJ9ub93-KD-86" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="PL2CMWZKeEjJ9ub93-KD-82" target="PL2CMWZKeEjJ9ub93-KD-85">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -20,7 +23,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PL2CMWZKeEjJ9ub93-KD-87" value="마이페이지" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="120" y="490" width="100" height="40" as="geometry" />
+          <mxGeometry x="150" y="490" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PL2CMWZKeEjJ9ub93-KD-88" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="PL2CMWZKeEjJ9ub93-KD-82" target="PL2CMWZKeEjJ9ub93-KD-87">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -29,10 +32,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PL2CMWZKeEjJ9ub93-KD-89" value="콘서트 대절" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="120" y="580" width="100" height="40" as="geometry" />
+          <mxGeometry x="150" y="580" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PL2CMWZKeEjJ9ub93-KD-90" value="게시판" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="120" y="670" width="100" height="40" as="geometry" />
+          <mxGeometry x="150" y="670" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PL2CMWZKeEjJ9ub93-KD-91" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="PL2CMWZKeEjJ9ub93-KD-82" target="PL2CMWZKeEjJ9ub93-KD-89">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -53,16 +56,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PL2CMWZKeEjJ9ub93-KD-96" value="QnA" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="120" y="780" width="100" height="40" as="geometry" />
+          <mxGeometry x="150" y="780" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PL2CMWZKeEjJ9ub93-KD-98" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="PL2CMWZKeEjJ9ub93-KD-97" target="PL2CMWZKeEjJ9ub93-KD-87">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="570" as="sourcePoint" />
             <mxPoint x="450" y="520" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="PL2CMWZKeEjJ9ub93-KD-101" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="370" y="350" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PL2CMWZKeEjJ9ub93-KD-102" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="PL2CMWZKeEjJ9ub93-KD-89" target="PL2CMWZKeEjJ9ub93-KD-103">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -71,7 +71,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PL2CMWZKeEjJ9ub93-KD-103" value="콘서트 대절 목록" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="370" y="485" width="100" height="40" as="geometry" />
+          <mxGeometry x="382" y="485" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PL2CMWZKeEjJ9ub93-KD-105" value="콘서트 대절 예약" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="370" y="545" width="100" height="40" as="geometry" />
@@ -107,7 +107,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PL2CMWZKeEjJ9ub93-KD-125" value="공지사항" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="382" y="780" width="100" height="40" as="geometry" />
+          <mxGeometry x="370" y="780" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PL2CMWZKeEjJ9ub93-KD-127" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="PL2CMWZKeEjJ9ub93-KD-97" target="PL2CMWZKeEjJ9ub93-KD-105">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -122,7 +122,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PL2CMWZKeEjJ9ub93-KD-135" value="환불규정" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="382" y="830" width="100" height="40" as="geometry" />
+          <mxGeometry x="370" y="830" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PL2CMWZKeEjJ9ub93-KD-137" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="PL2CMWZKeEjJ9ub93-KD-135" target="PL2CMWZKeEjJ9ub93-KD-96">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -167,13 +167,13 @@
           <mxGeometry x="720" y="545" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PL2CMWZKeEjJ9ub93-KD-255" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="384" y="430" width="60" height="30" as="geometry" />
+          <mxGeometry x="430" y="430" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PL2CMWZKeEjJ9ub93-KD-180" value="게시글 댓글 작성" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="536" y="617.5" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PL2CMWZKeEjJ9ub93-KD-278" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="680" y="570" width="60" height="30" as="geometry" />
+          <mxGeometry x="520" y="460" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PL2CMWZKeEjJ9ub93-KD-279" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="650" y="700" width="60" height="30" as="geometry" />
@@ -210,6 +210,12 @@
         </mxCell>
         <mxCell id="PL2CMWZKeEjJ9ub93-KD-298" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="576" y="650" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PL2CMWZKeEjJ9ub93-KD-303" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="570" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PL2CMWZKeEjJ9ub93-KD-306" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="455" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
